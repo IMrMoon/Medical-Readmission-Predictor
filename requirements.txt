@@ -1,0 +1,7 @@
+# Core dependencies
+pandas>=1.5
+numpy>=1.21
+scikit-learn>=1.2
+matplotlib>=3.6
+
+# Python 3.10+ recommended (script uses `str | None` type hints)

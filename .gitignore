@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# --- Jupyter / IPython (optional) ---
+.ipynb_checkpoints/
+.profile_default/
+
+# --- Logs / temp ---
+*.log
+*.tmp
+
+# --- Model artifacts (optional) ---
+*.pkl
+*.pickle
+*.joblib
+
+# --- Data / outputs (recommended not to commit hackathon data) ---
+*.csv
+data/
+datasets/
+outputs/
+submissions/
